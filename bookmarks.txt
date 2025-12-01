@@ -1,13 +1,6 @@
-## TOOLS CLI
 https://neomutt.org/
 https://newsboat.org/
-
-## TOOLS SSG
-https://github.com/getgridea/gridea
-https://github.com/withastro/starlight
-https://github.com/quarto-dev/quarto-cli
-https://github.com/silexlabs/Silex
-https://github.com/ElMassimo/iles
+The Joyful Site Generator - https://github.com/ElMassimo/iles
 https://github.com/trys/sergey
 https://github.com/lumeland/lume
 https://github.com/gustwindjs/gustwind
