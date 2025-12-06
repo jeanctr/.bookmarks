@@ -1,65 +1,86 @@
-PERSONAL BOOKMARKS
-------------------
+PERSONAL_BOOKMARKS
+-------------------
 
-- https://github.com/midudev/jscamp
-- https://www.jscamp.dev/
-- https://projectbook.code.brettchalupa.com/_introduction.html
-- https://sebastian.itch.io/digital-logic-sim
-- https://open.kattis.com/problems
-- https://beej.us/
-- https://projecteuler.net/archives
-- https://pll.harvard.edu/course/cs50-introduction-computer-science
-- https://github.com/SWPFlow/C-Project-Based-Tutorials
-- https://github.com/SebLague
-- https://sebastian.itch.io/
-- https://www.youtube.com/@SebastianLague
-- https://github.com/jflaherty/ptrtut13
-- https://teachyourselfcs.com/
-- https://codeforwin.org/
-- https://neomutt.org/
-- https://newsboat.org/
-- https://www.nand2tetris.org/
-- https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
-- https://github.com/getgridea/gridea
-- https://github.com/withastro/starlight
-- https://github.com/quarto-dev/quarto-cli
-- https://github.com/silexlabs/Silex
-- https://github.com/ElMassimo/iles
-- https://github.com/trys/sergey
-- https://github.com/lumeland/lume
-- https://github.com/gustwindjs/gustwind
-- https://github.com/JuliaDocs/Franklin.jl
-- https://github.com/coleslaw-org/coleslaw
-- https://github.com/ElijahToussaint/youngsoni
-- https://github.com/cfenollosa/bashblog
-- https://github.com/hmngwy/jenny
-- https://github.com/tighten/jigsaw
-- https://github.com/sculpin/sculpin
-- https://github.com/mkdocs/mkdocs
-- https://github.com/getpelican/pelican
-- https://github.com/rstudio/rmarkdown
-- https://github.com/rstudio/bookdown
-- https://github.com/rust-lang/mdBook
-- https://github.com/getzola/zola
-- https://github.com/denoland/fresh
-- https://github.com/ionide/Fornax
-- https://github.com/granicz/SiteFi
-- https://github.com/nuex/zodiac
-- https://github.com/kristapsdz/sblg
-- https://github.com/blogc/blogc
-- https://github.com/paultraf/makestaticsite
-- https://github.com/InkProject/ink
-- https://github.com/srackham/hindsite
-- https://github.com/gohugoio/hugo
-- https://github.com/piranha/gostatic
-- https://github.com/jaspervdj/hakyll
-- https://github.com/jgm/yst
-- https://github.com/cryogen-project/cryogen
-- https://github.com/nifty-site-manager/nsm
-- https://github.com/darccio/zas
-- https://github.com/mreider/krems
-- https://github.com/doomemacs/doomemacs
-- http://www.lazyvim.org/
-- https://github.com/practical-tutorials/project-based-learning
-- https://beej.us/guide/bgc/
-- https://roadmap.sh/r/roadmap-programacin-2025-por-midudev
+- https://github.com/midudev/jscamp : JS Camp resources repository.
+- https://www.jscamp.dev/ : Official JS Camp platform.
+- https://projectbook.code.brettchalupa.com/_introduction.html : Project-based programming intro.
+- https://sebastian.itch.io/digital-logic-sim : Digital logic simulator.
+- https://open.kattis.com/problems : Competitive programming problems.
+- https://beej.us/ : C/C++ programming guides.
+- https://projecteuler.net/archives : Mathematical and coding problems archive.
+- https://pll.harvard.edu/course/cs50-introduction-computer-science : Harvard CS50 course link.
+- https://github.com/SWPFlow/C-Project-Based-Tutorials : C language project-based tutorials.
+- https://github.com/SebLague : Sebastian Lague GitHub profile.
+- https://sebastian.itch.io/ : Sebastian Lague Itch.io profile.
+- https://www.youtube.com/@SebastianLague : Sebastian Lague YouTube channel.
+- https://github.com/jflaherty/ptrtut13 : C/C++ pointer tutorial (part 13).
+- https://teachyourselfcs.com/ : Self-taught CS curriculum guide.
+- https://codeforwin.org/ : Programming tutorial website.
+- https://neomutt.org/ : NeoMutt terminal email client.
+- https://newsboat.org/ : Newsboat terminal RSS/Atom reader.
+- https://www.nand2tetris.org/ : Full computer system building course.
+- https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo : Technology/CS YouTube playlist.
+- https://github.com/getgridea/gridea : Gridea static site generator (SSG).
+- https://github.com/withastro/starlight : Astro documentation SSG framework.
+- https://github.com/quarto-dev/quarto-cli : Quarto technical publishing system.
+- https://github.com/silexlabs/Silex : Silex open-source website builder.
+- https://github.com/ElMassimo/iles : Iles Vue/Vite static site generator.
+- https://github.com/trys/sergey : Sergey static site generator.
+- https://github.com/lumeland/lume : Lume Deno-based static site generator.
+- https://github.com/gustwindjs/gustwind : Gustwind minimalist SSG.
+- https://github.com/JuliaDocs/Franklin.jl : Franklin.jl Julia SSG.
+- https://github.com/coleslaw-org/coleslaw : Coleslaw Common Lisp blog generator.
+- https://github.com/ElijahToussaint/youngsoni : Youngsoni SSG/blog project.
+- https://github.com/cfenollosa/bashblog : Bashblog minimal blog generator (Bash).
+- https://github.com/hmngwy/jenny : Jenny static site generator.
+- https://github.com/tighten/jigsaw : Jigsaw Laravel/PHP SSG framework.
+- https://github.com/sculpin/sculpin : Sculpin PHP static site generator.
+- https://github.com/mkdocs/mkdocs : MkDocs Markdown documentation SSG.
+- https://github.com/getpelican/pelican : Pelican Python static site generator.
+- https://github.com/rstudio/rmarkdown : R Markdown dynamic document tool.
+- https://github.com/rstudio/bookdown : Bookdown R Markdown extension for books.
+- https://github.com/rust-lang/mdBook : mdBook Markdown to book tool (Rust).
+- https://github.com/getzola/zola : Zola fast SSG (Rust).
+- https://github.com/denoland/fresh : Fresh Deno web framework.
+- https://github.com/ionide/Fornax : Fornax F# static site generator.
+- https://github.com/granicz/SiteFi : SiteFi SSG project.
+- https://github.com/nuex/zodiac : Zodiac SSG project.
+- https://github.com/kristapsdz/sblg : Sblg simple blog generator.
+- https://github.com/blogc/blogc : Blogc C-based blog generator.
+- https://github.com/paultraf/makestaticsite : MakeStaticSite script for static sites.
+- https://github.com/InkProject/ink : Ink CMS/site generator project.
+- https://github.com/srackham/hindsite : Hindsite static site generator.
+- https://github.com/gohugoio/hugo : Hugo fast static site generator.
+- https://github.com/piranha/gostatic : Gostatic Go static site generator.
+- https://github.com/jaspervdj/hakyll : Hakyll Haskell static site generator.
+- https://github.com/jgm/yst : YST (Yet another Static site Tool).
+- https://github.com/cryogen-project/cryogen : Cryogen Clojure static site generator.
+- https://github.com/nifty-site-manager/nsm : Nifty Site Manager (NSM).
+- https://github.com/darccio/zas : Zas static site generator project.
+- https://github.com/mreider/krems : Krems static site generator project.
+- https://github.com/doomemacs/doomemacs : Doom Emacs distribution (Vim/modal editing).
+- http://www.lazyvim.org/ : LazyVim Neovim configuration.
+- https://github.com/practical-tutorials/project-based-learning : Project-based learning tutorials collection.
+- https://beej.us/guide/bgc/ : Beej's C programming guide.
+- https://roadmap.sh/r/roadmap-programacin-2025-por-midudev : Midudev 2025 Programming Roadmap.
+- https://www.hackthebox.com/ : Hack The Box cybersecurity training platform.
+- https://adventjs.dev/es : AdventJS JavaScript coding challenges.
+- https://excalidraw.com : Virtual whiteboard/diagramming tool.
+- https://freecomputerbooks.com : Free computer books collection.
+- https://github.com/trys/sergey : Sergey static site generator.
+- https://hackingvault.com/ : Cybersecurity and hacking resources.
+- https://book.hacktricks.wiki/en/index.html : HackTricks hacking tips/techniques guide.
+- https://www.hackerone.com/ : HackerOne Bug Bounty platform.
+- https://www.vulnhub.com/ : Vulnerable virtual machines for practice.
+- https://htbmachines.github.io/ : Hack The Box machine listing.
+- https://es.overleaf.com/project : Overleaf collaborative LaTeX editor.
+- https://tryhackme.com/hacktivities?tab=roadmap : TryHackMe cybersecurity training roadmaps.
+- https://github.com/htbmachines?tab=repositories : HTB Machines GitHub repositories.
+- https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit?gid=0#gid=0 : HTB/THM progress tracking spreadsheet.
+- https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 : Article: Practical design tips (Refactoring UI).
+- https://reef.gomakethings.com/ : Reef JavaScript UI library.
+- https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers/ : Blog: Category theory for JS/TS developers.
+- https://medium.com/ : Medium publishing platform homepage.
+- https://tanstack.com/ : TanStack component library suite.
+- https://adventofcode.com/ : Advent of Code annual coding challenges.
+- https://dev.to/?signin=true : Dev.to developer community sign-in.
