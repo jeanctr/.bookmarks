@@ -1,108 +1,107 @@
-Personal Bookmarks
+PERSONAL BOOKMARKS
 ==================
 
-- https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50 Course: Introduction to Computer Science from Harvard (on edX/OpenLearning)
-- https://www.nand2tetris.org/ | Nand2Tetris (From Nand to Tetris) - Course on building a complete computer system
-- https://teachyourselfcs.com/ | Teach Yourself CS - Self-study curriculum guide for Computer Science
-- https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo | YouTube Playlist (possibly CS or technology)
-- https://projecteuler.net/archives | Project Euler Archives, mathematical and programming problems
-- https://open.kattis.com/problems | Open Kattis platform with competitive programming problems
-- https://adventofcode.com/ | Advent of Code, annual programming challenges
-- https://adventjs.dev/es | AdventJS, JavaScript programming challenge calendar
-- https://roadmap.sh/r/roadmap-programacin-2025-por-midudev | Roadmap.sh - 2025 Programming Learning Path by Midudev
-- https://beej.us/guide/bgc/ | Beej's Guide to C Programming
-- https://beej.us/ | Beej's website (programming guides, especially C/C++)
-- https://github.com/SWPFlow/C-Project-Based-Tutorials | GitHub - Project-Based Tutorials for the C language
-- https://github.com/jflaherty/ptrtut13 | GitHub - Tutorial (possibly part 13) on pointers (ptr) in C/C++
-- https://github.com/midudev/jscamp | GitHub - Midudev's JavaScript Camp. Resource repository for a JS camp/course
-- https://www.jscamp.dev/ | JSCamp official platform or site
-- https://github.com/practical-tutorials/project-based-learning | GitHub - Collection of project-based learning tutorials
-- https://projectbook.code.brettchalupa.com/_introduction.html | Project Book - Introduction to project-based programming or development
-- https://sebastian.itch.io/digital-logic-sim | Digital Logic Simulator hosted on Itch.io by Sebastian
-- https://codeforwin.org/ | Code For Win - Website with programming tutorials
-- https://freecomputerbooks.com | Free Computer Books, collection of free computer science books
-- https://www.hackthebox.com/ | Hack The Box cybersecurity training platform
-- https://tryhackme.com/hacktivities?tab=roadmap | TryHackMe cybersecurity training platform (roadmaps)
-- https://www.vulnhub.com/ | VulnHub, platform for vulnerable virtual machines for practice
-- https://www.hackerone.com/ | HackerOne, Bug Bounty and vulnerability disclosure platform
-- https://book.hacktricks.wiki/en/index.html | HackTricks Book, hacking tricks and techniques wiki/guide
-- https://hackingvault.com/ | Hacking Vault, resources related to cybersecurity and hacking
-- https://htbmachines.github.io/ | List and resources for Hack The Box machines
-- https://github.com/htbmachines?tab=repositories | GitHub - Repositories related to HTB Machines
-- https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit?gid=0#gid=0 | Google Spreadsheet (possibly an HTB/THM tracker)
-- https://tanstack.com/ | TanStack (libraries like TanStack Query, Table, etc.)
-- https://reef.gomakethings.com/ | Reef, a JavaScript library for building interfaces
-- https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 | Medium Article: 7 Practical Tips for Cheating at Design (Refactoring UI)
-- https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers/ | Blog: Category Theory for JS/TS Developers
-- https://medium.com/ | Medium main page, article publishing platform
-- https://dev.to/?signin=true | Dev.to developer community and blog platform (login page)
-- https://github.com/gohugoio/hugo | GitHub - Hugo, fast static site generator
-- https://github.com/getzola/zola | GitHub - Zola, fast static site generator (written in Rust)
-- https://github.com/getgridea/gridea | GitHub - Gridea, static site generator (SSG)
-- https://github.com/withastro/starlight | GitHub - Starlight, framework for building documentation sites with Astro
-- https://github.com/lumeland/lume | GitHub - Lume, static site generator based on Deno
-- https://github.com/denoland/fresh | GitHub - Fresh, next-generation web framework for Deno
-- https://github.com/ElMassimo/iles | GitHub - Iles, static site generator for Vue/Vite
-- https://github.com/trys/sergey | GitHub - Sergey, another static site generator
-- https://github.com/gustwindjs/gustwind | GitHub - Gustwind, minimalist static site generator
-- https://github.com/JuliaDocs/Franklin.jl | GitHub - Franklin.jl, static site generator for Julia
-- https://github.com/coleslaw-org/coleslaw | GitHub - Coleslaw, static blog generator written in Common Lisp
-- https://github.com/ElijahToussaint/youngsoni | GitHub - Youngsoni, static site generator/blog project
-- https://github.com/cfenollosa/bashblog | GitHub - Bashblog, minimalist blog generator written in Bash
-- https://github.com/hmngwy/jenny | GitHub - Jenny, static site generator
-- https://github.com/tighten/jigsaw | GitHub - Jigsaw, static site framework with Laravel/PHP
-- https://github.com/sculpin/sculpin | GitHub - Sculpin, static site generator in PHP
-- https://github.com/getpelican/pelican | GitHub - Pelican, static site generator with Python
-- https://github.com/ionide/Fornax | GitHub - Fornax, static site generator in F#
-- https://github.com/granicz/SiteFi | GitHub - SiteFi, static site generator project
-- https://github.com/nuex/zodiac | GitHub - Zodiac, static site generator project
-- https://github.com/kristapsdz/sblg | GitHub - Sblg, simple blog generator
-- https://github.com/blogc/blogc | GitHub - Blogc, blog generator based on C
-- https://github.com/paultraf/makestaticsite | GitHub - MakeStaticSite, script to create static sites
-- https://github.com/InkProject/ink | GitHub - Ink, CMS or site generator project
-- https://github.com/srackham/hindsite | GitHub - Hindsite, static site generator
-- https://github.com/piranha/gostatic | GitHub - Gostatic, static site generator in Go
-- https://github.com/jaspervdj/hakyll | GitHub - Hakyll, static site generator in Haskell
-- https://github.com/jgm/yst | GitHub - YST (Yet another Static site Tool), tool for static sites
-- https://github.com/cryogen-project/cryogen | GitHub - Cryogen, static site generator in Clojure
-- https://github.com/nifty-site-manager/nsm | GitHub - Nifty Site Manager (NSM), site manager
-- https://github.com/darccio/zas | GitHub - Zas, static site generator project
-- https://github.com/mreider/krems | GitHub - Krems, static site generator project
-- https://github.com/silexlabs/Silex | GitHub - Silex, open-source website builder
-- https://github.com/mkdocs/mkdocs | GitHub - MkDocs, Markdown documentation site generator
-- https://github.com/rust-lang/mdBook | GitHub - mdBook, tool for creating books from Markdown (written in Rust)
-- https://github.com/quarto-dev/quarto-cli | GitHub - Quarto, technical and scientific publishing system
-- https://github.com/rstudio/rmarkdown | GitHub - R Markdown, tool for creating dynamic documents with R
-- https://github.com/rstudio/bookdown | GitHub - Bookdown, R Markdown extension for writing books and long documents
-- https://es.overleaf.com/project | Overleaf, collaborative LaTeX editor
-- https://github.com/doomemacs/doomemacs | Doom Emacs, Emacs distribution with Vim/modal editing
-- http://www.lazyvim.org/ | LazyVim official site, Neovim configuration focused on speed and customization
-- https://excalidraw.com | Excalidraw, virtual whiteboard and diagramming tool
-- https://neomutt.org/ | NeoMutt terminal email client official site
-- https://newsboat.org/ | Newsboat RSS/Atom reader official site for terminal
-- https://www.youtube.com/@SebastianLague | Sebastian Lague's YouTube Channel (programming tutorials)
-- https://github.com/SebLague | Sebastian Lague's GitHub Profile (programming and graphics content creator)
-- https://sebastian.itch.io/ | Sebastian's Itch.io Profile (games/simulations platform)
-- https://mail.google.com/mail/u/0/#inbox | Personal
-- https://mail.google.com/mail/u/2/#inbox | Proyectos Eléctricos
-- https://mail.google.com/mail/u/1/#inbox | Trabajo
-- https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/ | Don't Call Yourself A Programmer, And Other Career Advice | Kalzumeus Software
-- https://news.ycombinator.com/news | Hacker News
-- https://github.com/Hans-Halverson/brimstone | GitHub - Hans-Halverson/brimstone: New JavaScript engine written in Rust
-- https://www.tigerdata.com/blog/postgres-for-agents | Postgres for Agents | Tiger Data
-- https://www.tigerdata.com/ | Tiger Data: PostgreSQL++ for Time Series, Analytics & AI | Creators of TimescaleDB
-- https://react-grid-layout.github.io/react-grid-layout/examples/00-showcase.html | RGL Example 00 - Showcase
-- https://okso.app/ | Ok! So.
-- https://chromewebstore.google.com/detail/wa-web-plus-by-elbruz-tec/ekcgkejcjdcmonfpmnljobemcbpnkamh?hl=es&pli=1 | WA Web Plus by Elbruz Technologies - Chrome Web Store
-- https://www.better-auth.com/ | Better Auth
-- https://voici.larswaechter.dev/ | Home | voici.js
-- https://zod.dev/ | Intro | Zod
-- https://valibot.dev/ | Valibot: The modular and type safe schema library
-- https://arktype.io/ | ArkType: TypeScript's 1:1 validator, optimized from editor to runtime
-- https://jotai.org/ | Jotai, primitive and flexible state management for React
-- https://storybook.js.org/ | Storybook: Frontend workshop for UI development
-- https://neutralino.js.org/ | Build lightweight cross-platform desktop apps with JavaScript, HTML, and CSS | Neutralinojs
-- https://wails.io/ | The Wails Project | Wails
-- https://tauri.app/ | Tauri 2.0 | Tauri
-- https://zustand-demo.pmnd.rs/ | Zustand
-- https://valtio.dev/ | Valtio, makes proxy-state simple for React and Vanilla
+- <https://pll.harvard.edu/course/cs50-introduction-computer-science>
+- <https://www.nand2tetris.org/>
+- <https://teachyourselfcs.com/>
+- <https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo>
+- <https://projecteuler.net/archives>
+- <https://open.kattis.com/problems>
+- <https://adventofcode.com/>
+- <https://adventjs.dev/es>
+- <https://roadmap.sh/r/roadmap-programacin-2025-por-midudev>
+- <https://beej.us/guide/bgc/>
+- <https://beej.us/>
+- <https://github.com/SWPFlow/C-Project-Based-Tutorials>
+- <https://github.com/jflaherty/ptrtut13>
+- <https://github.com/midudev/jscamp>
+- <https://www.jscamp.dev/>
+- <https://github.com/practical-tutorials/project-based-learning>
+- <https://projectbook.code.brettchalupa.com/_introduction.html>
+- <https://sebastian.itch.io/digital-logic-sim>
+- <https://codeforwin.org/>
+- <https://freecomputerbooks.com>
+- <https://www.hackthebox.com/>
+- <https://tryhackme.com/hacktivities?tab=roadmap>
+- <https://www.vulnhub.com/>
+- <https://www.hackerone.com/>
+- <https://book.hacktricks.wiki/en/index.html>
+- <https://hackingvault.com/>
+- <https://htbmachines.github.io/>
+- <https://github.com/htbmachines?tab=repositories>
+- <https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit?gid=0#gid=0>
+- <https://tanstack.com/>
+- <https://reef.gomakethings.com/>
+- <https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886>
+- <https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers>- <https://medium.com/
+- <https://dev.to/?signin=true>
+- <https://github.com/gohugoio/hugo>
+- <https://github.com/getzola/zola>
+- <https://github.com/getgridea/gridea>
+- <https://github.com/withastro/starlight>
+- <https://github.com/lumeland/lume>
+- <https://github.com/denoland/fresh>
+- <https://github.com/ElMassimo/iles>
+- <https://github.com/trys/sergey>
+- <https://github.com/gustwindjs/gustwind>
+- <https://github.com/JuliaDocs/Franklin.jl>
+- <https://github.com/coleslaw-org/coleslaw>
+- <https://github.com/ElijahToussaint/youngsoni>
+- <https://github.com/cfenollosa/bashblog>
+- <https://github.com/hmngwy/jenny>
+- <https://github.com/tighten/jigsaw>
+- <https://github.com/sculpin/sculpin>
+- <https://github.com/getpelican/pelican>
+- <https://github.com/ionide/Fornax>
+- <https://github.com/granicz/SiteFi>
+- <https://github.com/nuex/zodiac>
+- <https://github.com/kristapsdz/sblg>
+- <https://github.com/blogc/blogc>
+- <https://github.com/paultraf/makestaticsite>
+- <https://github.com/InkProject/ink>
+- <https://github.com/srackham/hindsite>
+- <https://github.com/piranha/gostatic>
+- <https://github.com/jaspervdj/hakyll>
+- <https://github.com/jgm/yst>
+- <https://github.com/cryogen-project/cryogen>
+- <https://github.com/nifty-site-manager/nsm>
+- <https://github.com/darccio/zas>
+- <https://github.com/mreider/krems>
+- <https://github.com/silexlabs/Silex>
+- <https://github.com/mkdocs/mkdocs>
+- <https://github.com/rust-lang/mdBook>
+- <https://github.com/quarto-dev/quarto-cli>
+- <https://github.com/rstudio/rmarkdown>
+- <https://github.com/rstudio/bookdown>
+- <https://es.overleaf.com/project>
+- <https://github.com/doomemacs/doomemacs>
+- <http://www.lazyvim.org/>
+- <https://excalidraw.com>
+- <https://neomutt.org/>
+- <https://newsboat.org/>
+- <https://www.youtube.com/@SebastianLague>
+- <https://github.com/SebLague>
+- <https://sebastian.itch.io/>
+- <https://mail.google.com/mail/u/0/#inbox>
+- <https://mail.google.com/mail/u/2/#inbox>
+- <https://mail.google.com/mail/u/1/#inbox>
+- <https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/>
+- <https://news.ycombinator.com/news>
+- <https://github.com/Hans-Halverson/brimstone>
+- <https://www.tigerdata.com/blog/postgres-for-agents>
+- <https://www.tigerdata.com/>
+- <https://react-grid-layout.github.io/react-grid-layout/examples/00-showcase.html>
+- <https://okso.app/>
+- <https://chromewebstore.google.com/detail/wa-web-plus-by-elbruz-tec/ekcgkejcjdcmonfpmnljobemcbpnkamh?hl=es&pli=1>
+- <https://www.better-auth.com/>
+- <https://voici.larswaechter.dev/>
+- <https://zod.dev/>
+- <https://valibot.dev/>
+- <https://arktype.io/>
+- <https://jotai.org/>
+- <https://storybook.js.org/>
+- <https://neutralino.js.org/>
+- <https://wails.io/>
+- <https://tauri.app/>
+- <https://zustand-demo.pmnd.rs/>
+- <https://valtio.dev/>
