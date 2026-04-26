@@ -1,64 +1,53 @@
-=== BOOKMARKS ===
+BOOKMARKS
+=========
 
---- CS FUNDAMENTALS ---
-https://pll.harvard.edu/course/cs50-introduction-computer-science - Harvard CS50 intro.
-https://www.nand2tetris.org/ - Build a PC from scratch.
-https://teachyourselfcs.com/ - Self-taught CS roadmap.
-https://sarabander.github.io/sicp/html/index.xhtml - SICP textbook online.
-https://missing.csail.mit.edu/ - Essential terminal/shell skills.
-https://craftinginterpreters.com/ - Build a compiler/interpreter.
-https://www.feynmanlectures.caltech.edu/ - Physics by Feynman.
-https://aalhour.com/awesome-compilers - Compiler resource list.
-
---- CODING PRACTICE ---
-https://projecteuler.net/archives - Math/coding puzzles.
-https://open.kattis.com/problems - Competitive coding bank.
-https://adventofcode.com/ - Annual coding puzzles.
-https://adventjs.dev/es - JS/TS daily challenges.
-https://visualgo.net/en - DSA animations.
-https://samwho.dev/big-o/ - Visual Big O guide.
-https://projectbook.code.brettchalupa.com/_introduction.html - Coding project ideas.
-
---- WEB & STATE ---
-https://tanstack.com/ - Pro JS/TS libraries.
-https://zod.dev/ - TS schema validation.
-https://jotai.org/ - Atomic React state.
-https://zustand-demo.pmnd.rs/ - Lightweight state management.
-https://storybook.js.org/ - UI component sandbox.
-https://www.better-auth.com/ - Modern auth solution.
-https://animejs.com/ - Fast JS animations.
-
---- APPS & TOOLS ---
-https://tauri.app/ - Rust-based desktop apps.
-https://wails.io/ - Go-based desktop apps.
-https://neutralino.js.org/ - Ultra-light desktop apps.
-http://www.lazyvim.org/ - Fast Neovim config.
-https://github.com/doomemacs/doomemacs - Performance-focused Emacs.
-https://neomutt.org/ - CLI email client.
-https://newsboat.org/ - CLI RSS reader.
-
---- CYBERSECURITY ---
-https://www.hackthebox.com/ - Pentesting labs.
-https://tryhackme.com/ - Guided hacking tutorials.
-https://www.vulnhub.com/ - Vulnerable VMs for practice.
-https://book.hacktricks.wiki/en/index.html - Hacking techniques wiki.
-
---- DESIGN ---
-https://lawsofux.com/ - UX psychology rules.
-https://www.pencil.dev/ - UI design tool.
-https://excalidraw.com - Hand-drawn style whiteboard.
-
---- DOCUMENTATION ---
-https://github.com/gohugoio/hugo - Fastest site generator.
-https://github.com/withastro/starlight - Documentation framework.
-https://github.com/mkdocs/mkdocs - Markdown doc generator.
-https://github.com/rust-lang/mdBook - Markdown book generator.
-
---- NEWS & ESSAYS ---
-https://news.ycombinator.com/ - Tech & startup news.
-https://blog.acolyer.org/ - CS research reviews.
-https://dev.to/ - Developer social network.
-
-https://clawd.bot/
-https://github.com/moltbot/moltbot
-https://clawdhub.com/
+https://pll.harvard.edu/course/cs50-introduction-computer-science - Harvard CS50 intro
+https://teachyourselfcs.com - CS self-taught roadmap
+https://sarabander.github.io/sicp/html/index.xhtml - SICP online textbook
+https://softwarefoundations.cis.upenn.edu - Logic and verification
+https://www.feynmanlectures.caltech.edu - Physics by Feynman
+https://www.nand2tetris.org - Build a PC from scratch
+https://missing.csail.mit.edu - Essential terminal skills
+https://craftinginterpreters.com - Build a compiler
+https://aalhour.com/awesome-compilers - Compiler resource list
+https://www.cprogramming.com - C/C++ tutorials
+https://seenaburns.com/building-c-programs - Building C guide
+https://swc.rs - Rust-based web tooling
+https://projecteuler.net/archives - Math/coding puzzles
+https://open.kattis.com/problems - Competitive coding bank
+https://adventofcode.com - Annual coding puzzles
+https://adventjs.dev/es - JS/TS daily challenges
+https://visualgo.net/en - DSA animations
+https://samwho.dev/big-o - Visual Big O guide
+https://projectbook.code.brettchalupa.com/_introduction.html - Coding project ideas
+https://vite.dev - Next-gen build tool
+https://www.solidjs.com - Declarative UI library
+https://qwik.dev - Resumable web framework
+https://tanstack.com - Pro JS/TS libraries
+https://zod.dev - TS schema validation
+https://jotai.org - Atomic state management
+https://zustand-demo.pmnd.rs - Lightweight state management
+https://storybook.js.org - UI component sandbox
+https://www.better-auth.com - Modern auth solution
+https://animejs.com - Fast JS animations
+https://tauri.app - Rust-based desktop apps
+https://wails.io - Go-based desktop apps
+https://neutralino.js.org - Ultra-light desktop apps
+http://www.lazyvim.org - Fast Neovim config
+https://github.com/doomemacs/doomemacs - Performance Emacs
+https://neomutt.org - CLI email client
+https://newsboat.org - CLI RSS reader
+https://www.hackthebox.com - Pentesting labs
+https://tryhackme.com - Guided hacking tutorials
+https://www.vulnhub.com - Vulnerable VMs
+https://book.hacktricks.wiki/en/index.html - Hacking techniques wiki
+https://lawsofux.com - UX psychology rules
+https://www.pencil.dev - UI design tool
+https://excalidraw.com - Hand-drawn style whiteboard
+https://github.com/gohugoio/hugo - Fast site generator
+https://github.com/withastro/starlight - Documentation framework
+https://github.com/mkdocs/mkdocs - Markdown doc generator
+https://github.com/rust-lang/mdBook - Markdown book generator
+https://news.ycombinator.com - Tech/startup news
+https://blog.acolyer.org - CS research reviews
+https://dev.to - Developer social network
