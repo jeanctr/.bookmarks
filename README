@@ -1,174 +1,214 @@
-BOOKMARKS LINKS
-===============
+PERSONAL BOOKMARKS
+===================
 
+Website of Bookmarks Links https://jeanctr.dev/bookmarks
 
-- https://30secondsofcode.org/ — Collection of short, reusable snippets with programming explanations to solve common tasks quickly and clearly.
-- https://33jsconcepts.com/ — Interactive resource that explains fundamental JavaScript concepts with visual and practical examples.
-- https://aalhour.com/awesome-compilers/ — Curated list of resources, books, and tools for learning and designing compilers.
-- https://adventjs.dev/es — Programming challenge platform in JavaScript and TypeScript focused on problem-solving.
-- https://adventofcode.com — Annual programming challenges featuring daily logic and algorithmic problems.
-- https://beej.us/ — C/C++ programming guides.
-- https://beej.us/guide/bgc/ — Beej's C programming guide.
-- https://blog.acolyer.org — Blog featuring summaries and analysis of important computer science research papers.
-- https://book.hacktricks.wiki/en/index.html — Extensive wiki of offensive cybersecurity techniques, methodologies, and concepts.
-- https://bottomupcs.com/ — Bottom-up approach to learning computer systems from low-level layers to higher abstractions.
-- https://caniuse.com — Browser compatibility database for modern web technologies and features.
-- https://cheats.rs — Rust language cheat sheet featuring essential examples and references.
-- https://codeforwin.org/ — Programming tutorial website.
-- https://codehiddenlanguage.com/ — Exploration of ideas regarding programming languages and computation.
-- https://cp-algorithms.com/ — Advanced algorithm reference tailored for competitive programming.
-- https://craftinginterpreters.com/ — Comprehensive handbook on how to build interpreters and programming languages.
-- https://cs.uwaterloo.ca/~plragde/flane/FICS2/ — Theoretical notes on computer science and foundations of computation.
-- https://cs.uwaterloo.ca/~plragde/flaneries/FICS/ — Essays on computation theory and fundamental structural concepts.
-- https://cs50.harvard.edu/ai/ — Introductory course to artificial intelligence with Python.
-- https://cs50.harvard.edu/college/2022/spring/ — Undergraduate version of Harvard University's CS50 course.
-- https://cs50.harvard.edu/cybersecurity/ — Introduction to cybersecurity from the CS50 perspective.
-- https://cs50.harvard.edu/games/ — Practical, hands-on course focused on video game development.
-- https://cs50.harvard.edu/python/ — CS50 introductory course to programming using Python.
-- https://cs50.harvard.edu/sql — CS50 course covering databases and SQL.
-- https://cs50.harvard.edu/web — Web development course using Python and JavaScript.
-- https://cs50.harvard.edu/x — Harvard's flagship introductory course to the intellectual enterprises of computer science (CS50).
-- https://cs61a.org/ — Introductory computer science course from UC Berkeley.
-- https://cses.fi/problemset/list — Competitive programming problem set (CSES).
-- https://cybersecuritybase.mooc.fi — Free introductory course covering cybersecurity fundamentals.
-- https://dev.to — Social platform for developers sharing technical articles and insights.
-- https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit?gid=0#gid=0 — HTB/THM progress tracking spreadsheet.
-- https://es.overleaf.com/project — Overleaf collaborative LaTeX editor.
-- https://excalidraw.com — Collaborative virtual whiteboard sketching tool.
-- https://feynmanlectures.caltech.edu — Complete Feynman Lectures on fundamental physics.
-- https://freecomputerbooks.com — Directory of free programming, mathematics, and computer science books.
-- https://fullstackopen.com/en — Modern full-stack development course by the University of Helsinki.
-- https://github.com/Developer-Y/cs-video-courses/ — Curated list of university-level computer science video courses.
-- https://github.com/DoctorWkt/ — Repository featuring projects related to compilers and systems.
-- https://github.com/DoctorWkt/acwj/ — Educational project focused on learning how to build compilers.
-- https://github.com/ElMassimo/iles — Iles Vue/Vite static site generator.
-- https://github.com/ElijahToussaint/youngsoni — Youngsoni SSG/blog project.
-- https://github.com/InkProject/ink — Ink CMS/site generator project.
-- https://github.com/JuliaDocs/Franklin.jl — Franklin.jl Julia SSG.
-- https://github.com/SWPFlow/C-Project-Based-Tutorials — C language project-based tutorials.
-- https://github.com/SebLague — Sebastian Lague GitHub profile.
-- https://github.com/aalhour/awesome-compilers — Repository containing comprehensive compiler resources.
-- https://github.com/blogc/blogc — Blogc C-based blog generator.
-- https://github.com/cfenollosa/bashblog — Bashblog minimal blog generator (Bash).
-- https://github.com/coleslaw-org/coleslaw — Coleslaw Common Lisp blog generator.
-- https://github.com/cryogen-project/cryogen — Cryogen Clojure static site generator.
-- https://github.com/darccio/zas — Zas static site generator project.
-- https://github.com/denoland/fresh — Fresh Deno web framework.
-- https://github.com/doomemacs/doomemacs — Doom Emacs distribution (Vim/modal editing).
-- https://github.com/erikgrinaker/readings/ — Curated reading list focusing on systems and software engineering.
-- https://github.com/getgridea/gridea — Gridea static site generator (SSG).
-- https://github.com/getpelican/pelican — Pelican Python static site generator.
-- https://github.com/getzola/zola — Zola fast SSG (Rust).
-- https://github.com/gohugoio/hugo — The Hugo static site generator repository.
-- https://github.com/granicz/SiteFi — SiteFi SSG project.
-- https://github.com/gustwindjs/gustwind — Gustwind minimalist SSG.
-- https://github.com/hmngwy/jenny — Jenny static site generator.
-- https://github.com/htbmachines?tab=repositories — HTB Machines GitHub repositories.
-- https://github.com/ianw/bottomupcs/ — Resources for bottom-up computer systems learning.
-- https://github.com/ionide/Fornax — Fornax F# static site generator.
-- https://github.com/jaspervdj/hakyll — Hakyll Haskell static site generator.
-- https://github.com/jeffhuang/ — Research projects and computer science repository profile.
-- https://github.com/jflaherty/ptrtut13 — C/C++ pointer tutorial (part 13).
-- https://github.com/jgm/yst — YST (Yet another Static site Tool).
-- https://github.com/jwasham/ — Profile containing technical interview preparation resources.
-- https://github.com/jwasham/coding-interview-university/ — Structured study plan for software engineering interviews.
-- https://github.com/kristapsdz/sblg — Sblg simple blog generator.
-- https://github.com/lumeland/lume — Lume Deno-based static site generator.
-- https://github.com/manjunath5496 — Collection of computer science and programming resources.
-- https://github.com/midudev/jscamp — JS Camp resources repository.
-- https://github.com/mkdocs/mkdocs — Markdown-based project documentation generator.
-- https://github.com/mreider/krems — Krems static site generator project.
-- https://github.com/nifty-site-manager/nsm — Nifty Site Manager (NSM).
-- https://github.com/nuex/zodiac — Zodiac SSG project.
-- https://github.com/paultraf/makestaticsite — MakeStaticSite script for static sites.
-- https://github.com/piranha/gostatic — Gostatic Go static site generator.
-- https://github.com/practical-tutorials/project-based-learning — Curated list of project-based programming tutorials.
-- https://github.com/prakhar1989/awesome-courses/ — List of high-quality, free college-level computer science courses.
-- https://github.com/quarto-dev/quarto-cli — Quarto technical publishing system.
-- https://github.com/rstudio/bookdown — Bookdown R Markdown extension for books.
-- https://github.com/rstudio/rmarkdown — R Markdown dynamic document tool.
-- https://github.com/rust-lang/mdBook — mdBook Markdown to book tool (Rust).
-- https://github.com/ryanmcdermott/clean-code-javascript/ — Guide to clean code practices and principles for JavaScript.
-- https://github.com/sculpin/sculpin — Sculpin PHP static site generator.
-- https://github.com/silexlabs/Silex — Silex open-source website builder.
-- https://github.com/srackham/hindsite — Hindsite static site generator.
-- https://github.com/the-akira/Computer-Science-Resources/ — Large collection of curated computer science resources.
-- https://github.com/tighten/jigsaw — Jigsaw Laravel/PHP SSG framework.
-- https://github.com/trys/sergey — Sergey - A tiny but opinionated static site generator.
-- https://github.com/uzbl/uzbl — Minimalist and highly configurable web browser.
-- https://github.com/w3c — The W3C official web standards repository.
-- https://github.com/withastro/starlight — Documentation framework built on top of Astro.
-- https://hackingvault.com/ — Cybersecurity and hacking resources.
-- https://htbmachines.github.io/ — Hack The Box machine listing.
-- https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers/ — Blog: Category theory for JS/TS developers.
-- https://jeffe.cs.illinois.edu/teaching/algorithms/ — Advanced lecture notes and materials on algorithms.
-- https://jeffhuang.com/ — Personal website featuring research and technical essays.
-- https://jeffhuang.com/best_paper_awards/ — List of award-winning and notable computer science research papers.
-- https://jeffhuang.com/computer-science-open-data/ — Open datasets and resources for computer science.
-- https://jeffhuang.com/designed_to_last/ — Essay on sustainable, durable, and long-lasting web design.
-- https://jotai.org — Minimal, primitive-based state management library for React.
-- https://jscamp.dev — Interactive platform designed to master JavaScript.
-- https://lawsofux.com — Collection of psychological principles applied to UX/UI design.
-- https://lazyvim.org — Modern, modular, and pre-configured Neovim setup.
-- https://learn-anything.xyz/ — Visual maps and learning paths for multiple disciplines.
-- https://learn-c.org — Interactive, in-browser C programming language tutorial.
-- https://learnxinyminutes.com — Quick community-driven reference sheets for learning programming languages.
-- https://man7.org/tlpi — Official resource page for The Linux Programming Interface book.
-- https://marcelopardo.com — Technical blog focusing on engineering and software systems.
-- https://medium.com/ — Medium publishing platform homepage.
-- https://medium.com/basecs/ — Educational articles covering the fundamentals of computer science.
-- https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 — Article: Practical design tips (Refactoring UI).
-- https://missing.csail.mit.edu — The Missing Semester course covering essential developer tools.
-- https://neomutt.org — Command-line terminal based mail client.
-- https://neutralino.js.org — Lightweight portable framework for building desktop applications.
-- https://news.ycombinator.com/ — Hacker News technology aggregator and discussion board.
-- https://news.ycombinator.com/item?id=20729252/ — Hacker News discussion thread regarding top computer science resources.
-- https://newsboat.org/ — Newsboat terminal RSS/Atom reader.
-- https://open.kattis.com/problems — Competitive programming problem platform and archive.
-- https://pencil.dev — Open-source GUI prototyping and UI/UX design tool.
-- https://pll.harvard.edu/course/cs50-introduction-computer-science — Harvard's official CS50 introductory computer science course page.
-- https://programming-23.mooc.fi — Modern introductory computer programming course.
-- https://projectbook.code.brettchalupa.com/_introduction.html — Inspirational programming and software development project ideas.
-- https://projecteuler.net/archives — Challenging mathematical and computational programming problems.
-- https://py4e.com — Python for Everybody open course curriculum.
-- https://qwik.dev — Web framework optimized for instant loading performance.
-- https://reef.gomakethings.com/ — Reef JavaScript UI library.
-- https://roadmap.sh — Interactive visual roadmap guides for tech careers.
-- https://roadmap.sh/r/roadmap-programacin-2025-por-midudev — Midudev 2025 Programming Roadmap.
-- https://rust-hosted-langs.github.io/book/introduction.html — Guide to implementing programming languages using Rust.
-- https://rust-lang.org — Official website of the Rust programming language.
-- https://samwho.dev/big-o — Visual and interactive explanation of Big-O complexity analysis.
-- https://sarabander.github.io/sicp/html/index.xhtml — Online interactive edition of the classic SICP textbook.
-- https://sebastian.itch.io/ — Sebastian Lague Itch.io profile.
-- https://sebastian.itch.io/digital-logic-sim — Digital logic simulator.
-- https://seenaburns.com/building-c-programs — Comprehensive guide to building, compiling, and structuring C programs.
-- https://socviz.co — Practical guide to data visualization using the R language.
-- https://softwarefoundations.cis.upenn.edu — Book series exploring formal logic and software verification.
-- https://solidjs.com — Reactive, declarative, and high-performance framework for building user interfaces.
-- https://startupnextdoor.com/ — Insightful content on startups, entrepreneurship, and technical growth.
-- https://storybook.js.org — Frontend workshop tool for building isolated UI components.
-- https://suckless.org — Software community advocating for minimalist, elegant philosophy.
-- https://swc.rs — Super-fast JavaScript and TypeScript compiler written in Rust.
-- https://tanstack.com — Modern, powerful ecosystem of tools and libraries for React and TypeScript.
-- https://tauri.app — Framework for building lightweight native desktop apps using web tech and Rust.
-- https://teachyourselfcs.com — Self-taught curriculum and guide to mastering computer science foundations.
-- https://thepythonbook.com — Free educational book to learn Python programming.
-- https://tryhackme.com/hacktivities?tab=roadmap — TryHackMe cybersecurity training roadmaps.
-- https://wails.io — Framework for building desktop applications utilizing Go and web tech.
-- https://wessel.ai/ — Artificial Intelligence experiments, tools, and research explorations.
-- https://wiki.tuhs.org/doku.php?id=start/ — Historical documentation and archives of the UNIX operating system.
-- https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation/ — In-depth article exploring combinators and computation history.
-- https://www.chrislaux.com/ — Technical engineering blog discussing systems and programming.
-- https://www.cprogramming.com — Comprehensive C and C++ programming language tutorials.
-- https://www.elementsofai.com — Free introductory online course explaining the basics of Artificial Intelligence.
-- https://www.figma.com/ — Collaborative web-based UI/UX interface design tool.
-- https://www.hackerone.com/ — HackerOne Bug Bounty platform.
-- https://www.hackthebox.com/ — Hack The Box cybersecurity training platform.
-- https://www.nand2tetris.org — Comprehensive course to build a modern computer system from first principles.
-- https://www.stephenwolfram.com/ — Stephen Wolfram's website exploring computation, science, and AI.
-- https://www.teamten.com/lawrence/style/ — Opinionated guidelines and style tips for technical writing.
-- https://www.vulnhub.com — Vulnerable material and virtual machines for cybersecurity practice.
-- https://www.youtube.com/@SebastianLague — Sebastian Lague YouTube channel.
-- https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo — Technology/CS YouTube playlist.
-- https://zod.dev — TypeScript-first schema validation and type-inference library.
-- https://zustand-demo.pmnd.rs — Live demonstration of the lightweight Zustand state management library for React.
+- https://codeforces.com | Codeforces | Competitive programming platform with contests and problem archive | #algorithms-cp
+- https://clig.dev | Command Line Interface Guidelines | Guidelines for creating modern, user-friendly CLI tools | #cli-tools
+- https://rust-cli.github.io/book/index.html | Rust CLI Book | The Rust command-line application book | #rust,#cli-tools
+- https://projectbook.code.brettchalupa.com | The Project Book | Inspirational programming and software development project ideas | #tutorials
+- https://teachyourselfcs.com | Teach Yourself CS | Self-taught curriculum and guide to mastering computer science foundations | #cs-fundamentals
+- https://www.nand2tetris.org | Nand2Tetris | Comprehensive course to build a modern computer system from first principles | #cs-fundamentals
+- https://bottomupcs.com | Bottom-Up CS | Bottom-up approach to learning computer systems from low-level layers to higher abstractions | #cs-fundamentals
+- https://sarabander.github.io/sicp/html/index.xhtml | SICP HTML | Online interactive edition of the classic SICP textbook | #cs-fundamentals
+- https://softwarefoundations.cis.upenn.edu | Software Foundations | Book series exploring formal logic and software verification | #cs-fundamentals
+- https://missing.csail.mit.edu | The Missing Semester | MIT course covering essential developer tools and systems knowledge | #cs-fundamentals
+- https://computingbook.org | Introduction to Computing | Open-source introductory computing textbook with hands-on approach | #cs-fundamentals
+- https://faculty.washington.edu/ajko/books/foundations-of-information | Foundations of Information | Open textbook on information systems and digital literacy | #cs-fundamentals
+- https://github.com/ocamllabs/focs-notebooks/blob/main/1A%20Foundations%20of%20Computer%20Science.ipynb | FOCS Notebooks | Jupyter notebooks for Foundations of CS course with interactive examples | #cs-fundamentals
+- https://github.com/err0r500/foundational-knowledge-for-programmers | Foundational Knowledge for Programmers | Curated foundational knowledge resources for programmers | #cs-fundamentals
+- https://elementsofprogramming.com | Elements of Programming | Companion site for Stepanov's book on generic programming and algorithms | #cs-fundamentals
+- https://github.com/ossu/computer-science | OSSU Computer Science | Open Source Society University path to a free, complete CS education | #cs-fundamentals
+- https://man7.org/tlpi | TLPI | Official resource page for The Linux Programming Interface book | #systems
+- https://wiki.tuhs.org/doku.php | TUHS Wiki | Historical documentation and archives of the UNIX operating system | #systems
+- https://cs.uwaterloo.ca/~plragde/flane/FICS2 | FICS2 Waterloo | Theoretical notes on computer science and foundations of computation | #cs-fundamentals
+- https://cs.uwaterloo.ca/~plragde/flaneries/FICS | FICS Waterloo | Essays on computation theory and fundamental structural concepts | #cs-fundamentals
+- https://medium.com/basecs | basecs | Educational articles covering the fundamentals of computer science in depth | #cs-fundamentals
+- https://github.com/llSourcell/Learn_Computer_Science_in_5_Months | Learn CS in 5 Months | GitHub repository for a fast-paced, practical computer science curriculum | #cs-fundamentals
+- https://github.com/the-akira/Computer-Science-Resources | The Akira CS Resources | Large collection of curated computer science resources and learning materials | #cs-fundamentals
+- https://github.com/prakhar1989/awesome-courses | Awesome CS Courses | List of high-quality, free college-level computer science courses | #cs-courses
+- https://github.com/Developer-Y/cs-video-courses | CS Video Courses | Curated list of university-level computer science video courses | #cs-courses
+- https://github.com/ForrestKnight/open-source-cs | Forrest Knight Open Source CS | Open-source computer science curriculum layout | #cs-fundamentals
+- https://github.com/ossu | OSSU GitHub | Official GitHub organization for Open Source Society University | #cs-fundamentals
+- https://pll.harvard.edu/course/cs50-introduction-computer-science | Harvard PLL CS50 | Harvard's official CS50 introductory computer science course page | #cs-courses
+- https://cs50.harvard.edu/x | CS50x | Harvard's flagship introductory course to computer science fundamentals | #cs-courses
+- https://cs50.harvard.edu/college/2022/spring | CS50 College | Undergraduate version of Harvard University's CS50 course | #cs-courses
+- https://cs50.harvard.edu/python | CS50 Python | CS50 introductory course to programming using Python | #cs-courses,#python
+- https://cs50.harvard.edu/sql | CS50 SQL | CS50 course covering databases, SQL, and data management | #cs-courses,#databases
+- https://cs50.harvard.edu/web | CS50 Web | Web development course using Python, JavaScript, and modern frameworks | #cs-courses,#web-dev
+- https://cs50.harvard.edu/ai | CS50 AI | Introductory course to artificial intelligence with Python | #cs-courses,#ai
+- https://cs50.harvard.edu/cybersecurity | CS50 Cybersecurity | Introduction to cybersecurity from the CS50 perspective | #cs-courses,#cybersecurity
+- https://cs50.harvard.edu/games | CS50 Games | Practical, hands-on course focused on video game development | #cs-courses,#gamedev
+- https://cs61a.org | CS61A | Introductory computer science course from UC Berkeley on programming and abstractions | #cs-courses
+- https://fullstackopen.com/en | Full Stack Open | Modern full-stack development course by the University of Helsinki | #cs-courses,#web-dev
+- https://programming-23.mooc.fi | Helsinki MOOC Programming | Modern introductory computer programming course (MOOC) | #cs-courses
+- https://py4e.com | Python for Everybody | Python for Everybody open course curriculum with video lectures | #cs-courses,#python
+- https://www.theodinproject.com | The Odin Project | Full stack web development open curriculum with Ruby/Rails and JavaScript | #cs-courses,#web-dev
+- https://www.freecodecamp.org | freeCodeCamp | Interactive learning platform for coding with certifications | #cs-courses
+- https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018 | MIT 6.033 | MIT OpenCourseWare computer systems engineering course | #cs-courses,#systems
+- https://course.fast.ai | Practical Deep Learning for Coders | Practical deep learning course for programmers, top-down approach | #ai,#cs-courses
+- https://dabeaz.com/courses.html | David Beazley Courses | Practical, intense programming courses by David Beazley | #python,#cs-courses
+- https://cybersecuritybase.mooc.fi | Cybersecurity Base Helsinki | Free introductory course covering cybersecurity fundamentals | #cybersecurity,#cs-courses
+- https://www.elementsofai.com | Elements of AI | Free introductory online course explaining the basics of artificial intelligence | #ai,#cs-courses
+- https://cp-algorithms.com | CP-Algorithms | Advanced algorithm reference tailored for competitive programming | #algorithms-cp
+- https://jeffe.cs.illinois.edu/teaching/algorithms | Jeff Erickson Algorithms | Advanced lecture notes and materials on algorithms | #algorithms-cp
+- https://samwho.dev/big-o | Sam Who Big-O | Visual and interactive explanation of Big-O complexity analysis | #algorithms-cp
+- https://adventofcode.com | Advent of Code | Annual programming challenges featuring daily logic and algorithmic problems | #algorithms-cp
+- https://adventjs.dev/es | AdventJS | Programming challenge platform focused on JavaScript and TypeScript problem-solving | #algorithms-cp,#javascript
+- https://projecteuler.net/archives | Project Euler | Challenging mathematical and computational programming problems | #algorithms-cp,#math
+- https://open.kattis.com/problems | Kattis | Competitive programming problem platform and archive with community | #algorithms-cp
+- https://cses.fi/problemset/list | CSES | Competitive programming problem set (CSES) | #algorithms-cp
+- https://leetcode.com | LeetCode | Coding interview preparation platform with algorithmic challenges | #algorithms-cp
+- https://www.hackerrank.com | HackerRank | Competitive programming challenges and interview preparation | #algorithms-cp
+- https://www.codewars.com | Codewars | Code challenge platform with progressive kata system and community | #algorithms-cp
+- https://github.com/trekhleb/javascript-algorithms | JavaScript Algorithms | Repository for JavaScript algorithms and data structures | #javascript,#algorithms
+- https://www.cs.cornell.edu/~asampson/blog/flattening.html | Adrian Sampson Flattening | Blog post on data structure optimization and cache-friendly algorithms | #algorithms,#blog
+- https://bcmullins.github.io/complexity_theory_resources | Complexity Theory Resources | Curated resources for learning computational complexity theory | #math,#cs-fundamentals
+- https://bcmullins.github.io | Brandon Mullins Blog | Technical blog covering computation, algorithms, and complexity | #cs-fundamentals,#blog
+- https://craftinginterpreters.com | Crafting Interpreters | Comprehensive handbook on how to build interpreters and programming languages | #compilers
+- https://rust-hosted-langs.github.io/book/introduction.html | Rust Hosted Langs Book | Guide to implementing programming languages using Rust | #compilers,#rust
+- https://aalhour.com/awesome-compilers | Awesome Compilers Web | Curated list of resources, books, and tools for learning and designing compilers | #compilers
+- https://github.com/aalhour/awesome-compilers | Awesome Compilers Repo | Repository containing comprehensive compiler resources | #compilers
+- https://github.com/DoctorWkt/acwj | ACWJ Compiler Journey | Educational project: A Compiler Writing Journey with C | #compilers
+- https://github.com/falgon/htcc | HTCC Compiler | HTCC: a tiny C compiler project for learning compiler internals | #compilers
+- https://blog.josephmorag.com/posts/mcc0 | Joseph Morag MCC0 | Blog series on building a C compiler from scratch | #compilers
+- https://norasandler.com/2017/11/29/Write-a-Compiler.html | Nora Sandler Write a Compiler | Tutorial series on writing a C compiler from scratch | #compilers
+- https://codehiddenlanguage.com | Code Hidden Language | Exploration of ideas regarding programming languages and computation | #compilers
+- https://blog.josephmorag.com | Joseph Morag Blog | Technical blog exploring compilers, programming languages, and tools | #compilers,#blog
+- https://writings.stephenwolfram.com/2020/12/combinators-and-the-story-of-computation | Stephen Wolfram Combinators | In-depth article exploring combinators and computation history | #compilers,#essays
+- https://doisinkidney.com/posts/2020-10-17-ski.html | SKI Combinators Article | Article on SKI combinator calculus and functional programming foundations | #math,#compilers
+- https://beej.us | Beej's Guides | High-quality C and C++ programming guides and tutorials | #c-cpp
+- https://beej.us/guide/bgc | Beej's Guide to C | Beej's comprehensive Guide to C programming | #c-cpp
+- https://www.cprogramming.com | CProgramming | Comprehensive C and C++ programming language tutorials and reference | #c-cpp
+- https://learn-c.org | Learn-C | Interactive, in-browser C programming language tutorial | #c-cpp
+- https://seenaburns.com/building-c-programs | Seena Burns Building C | Comprehensive guide to building, compiling, and structuring C programs | #c-cpp
+- https://github.com/jflaherty/ptrtut13 | C Pointer Tutorial | C/C++ pointer tutorial covering advanced pointer concepts | #c-cpp
+- https://github.com/SWPFlow/C-Project-Based-Tutorials | C Project-Based Tutorials | C language project-based tutorials for hands-on learning | #c-cpp
+- https://river.codes/demystifying-malloc | Demystifying Malloc | Deep-dive article demystifying malloc and memory allocation | #c-cpp
+- https://fredrikj.net/blog/2021/01/developing-mathematical-software-in-c | Fredrik Johansson Blog | Blog post on developing mathematical software in C | #c-cpp
+- https://en.cppreference.com | cppreference | Comprehensive C and C++ reference documentation | #c-cpp
+- https://rust-lang.org | Rust Language | Official website of the Rust programming language | #rust
+- https://cheats.rs | Rust Cheat Sheet | Rust language cheat sheet featuring essential examples and references | #rust
+- https://doc.rust-lang.org/book | The Rust Book | The official Rust Programming Language book ("The Book") | #rust
+- https://rust-cli.github.io/book | Rust CLI Book | The Rust command-line application book | #rust,#cli-tools
+- https://swc.rs | SWC | Super-fast JavaScript and TypeScript compiler written in Rust | #frontend,#rust
+- https://thepythonbook.com | The Python Book | Free educational book to learn Python programming | #python
+- https://dabeaz.com/index.html | David Beazley Web | Main webpage and educational hub of David Beazley | #python
+- https://learning.oreilly.com/learning-paths/learning-path-python-basics | Python Basics (O'Reilly) | O'Reilly learning path for Python fundamentals | #python
+- https://github.com/amilajack/reading | Amilajack Reading List | Curated developer and computer science reading list | #books,#research
+- https://33jsconcepts.com | 33 JS Concepts | Interactive resource explaining fundamental JavaScript concepts visually | #javascript
+- https://jscamp.dev | JS Camp Web | Interactive platform designed to master JavaScript fundamentals | #javascript
+- https://github.com/midudev/jscamp | JS Camp Repo | JS Camp resources repository and learning materials | #javascript
+- https://learnxinyminutes.com | Learn X in Y Minutes | Quick community-driven reference sheets for learning programming languages | #javascript,#polyglot
+- https://github.com/lukehoban/es6features | ES6 Features | Overview of ES6 features and modern JavaScript capabilities | #javascript
+- https://github.com/metagrover/ES6-for-humans | ES6 for Humans | ES6 for humans kickstart guide with practical examples | #javascript
+- https://github.com/fbeline/Design-Patterns-JS | Design Patterns JS | Design patterns implemented in JavaScript | #javascript,#design-patterns
+- https://github.com/fantasyland/fantasy-land | Fantasy Land | Specification for interoperability of common algebraic structures in JS | #javascript
+- https://ibrahimcesar.cloud/blog/category-theory-for-javascript-typescript-developers | Category Theory for JS/TS | Blog: Category theory for JavaScript and TypeScript developers | #javascript,#math
+- https://javascript.info | The Modern JavaScript Tutorial | Modern JavaScript tutorial from the basics to advanced topics | #javascript
+- https://mbeaudru.github.io/modern-js-cheatsheet | Modern JS Cheatsheet | JavaScript cheatsheet for modern projects and ES6+ features | #javascript
+- https://github.com/lydiahallie/javascript-questions | JavaScript Questions | A long list of advanced JavaScript questions and explanations | #javascript
+- https://github.com/ryanmcdermott/clean-code-javascript | Clean Code JavaScript | Guide to clean code practices and principles for JavaScript | #javascript,#clean-code
+- https://github.com/getify/Functional-Light-JS | Functional-Light JavaScript | Book on pragmatic functional programming in JavaScript | #javascript
+- https://github.com/getify | Getify GitHub | GitHub profile of Kyle Simpson, author and prominent JS educator | #javascript
+- https://zod.dev | Zod | TypeScript-first schema validation with type inference | #frontend,#typescript
+- https://reef.gomakethings.com | Reef | Reef lightweight JavaScript UI library for vanilla JS projects | #frontend
+- https://30secondsofcode.org | 30 Seconds of Code | Collection of short, reusable JavaScript snippets with explanations | #snippets,#javascript
+- https://www.jamstack.org | Jamstack | Official JAMstack architecture website | #web-dev,#jamstack
+- https://jamstack.org/generators | Jamstack Generators | Curated list of JAMstack-compatible static site generators | #web-dev,#jamstack,#ssg
+- https://caniuse.com | Can I Use | Browser compatibility database for modern web technologies | #web-dev
+- https://developer.mozilla.org | MDN Web Docs | MDN Web Docs, the definitive web developer reference | #web-dev
+- https://qwik.dev | Qwik | Web framework optimized for instant loading performance via resumability | #web-dev,#frontend
+- https://solidjs.com | SolidJS | Reactive, declarative, and high-performance framework for building UIs | #web-dev,#frontend
+- https://jotai.org | Jotai | Minimal, primitive-based state management library for React | #frontend,#react
+- https://zustand-demo.pmnd.rs | Zustand Demo | Live demonstration of the lightweight Zustand state management library | #frontend,#react
+- https://tanstack.com | TanStack | Modern, powerful ecosystem of tools and libraries for React and TypeScript | #frontend,#react
+- https://storybook.js.org | Storybook | Frontend workshop tool for building isolated UI components | #frontend
+- https://www.patterns.dev | Patterns.dev | Free book on design patterns, component patterns, and performance in modern web | #design-patterns,#web-dev
+- https://github.com/gohugoio/hugo | Hugo | The Hugo static site generator (Go, fastest and most popular) | #ssg
+- https://github.com/getzola/zola | Zola | Zola fast static site generator written in Rust | #ssg,#rust
+- https://github.com/withastro/starlight | Starlight | Documentation framework built on top of Astro | #ssg,#jamstack
+- https://github.com/mkdocs/mkdocs | MkDocs | Markdown-based project documentation generator (Python) | #ssg
+- https://github.com/rust-lang/mdBook | mdBook | mdBook Markdown to book tool for documentation (Rust) | #ssg,#rust
+- https://github.com/getpelican/pelican | Pelican | Pelican Python static site generator | #ssg,#python
+- https://github.com/quarto-dev/quarto-cli | Quarto | Quarto open-source scientific and technical publishing system | #ssg
+- https://github.com/lumeland/lume | Lume | Lume Deno-based static site generator for modern web | #ssg
+- https://github.com/denoland/fresh | Fresh | Fresh next-gen web framework for Deno with islands architecture | #ssg
+- https://github.com/tighten/jigsaw | Jigsaw | Jigsaw Laravel/PHP static site generator framework | #ssg
+- https://neomutt.org | NeoMutt | Command-line terminal based mail client for power users | #cli-tools
+- https://newsboat.org | Newsboat | Newsboat terminal RSS/Atom feed reader | #cli-tools
+- https://github.com/doomemacs/doomemacs | Doom Emacs | Doom Emacs distribution with Vim/modal editing, preconfigured | #cli-tools
+- https://lazyvim.org | LazyVim | Modern, modular, and pre-configured Neovim setup | #cli-tools
+- https://suckless.org | Suckless | Software community advocating for minimalist, elegant philosophy | #cli-tools,#minimalist
+- https://github.com/uzbl/uzbl | Uzbl | Minimalist and highly configurable web browser (WebKit) | #cli-tools,#minimalist
+- https://book.hacktricks.wiki/en/index.html | HackTricks | Extensive wiki of offensive cybersecurity techniques and methodologies | #cybersecurity
+- https://www.hackthebox.com | Hack The Box | Hack The Box cybersecurity training platform with vulnerable labs | #cybersecurity
+- https://tryhackme.com/hacktivities | TryHackMe Roadmaps | TryHackMe cybersecurity training roadmaps | #cybersecurity
+- https://www.vulnhub.com | VulnHub | Vulnerable material and virtual machines for cybersecurity practice | #cybersecurity
+- https://hackingvault.com | HackingVault | Cybersecurity and hacking resources collection | #cybersecurity
+- https://www.hackerone.com | HackerOne | HackerOne bug bounty platform for security researchers | #cybersecurity
+- https://htbmachines.github.io | HTB Machines Web | Hack The Box machine listing and documentation | #cybersecurity
+- https://github.com/htbmachines | HTB Machines Repo | HTB Machines GitHub repositories and scripts | #cybersecurity
+- https://docs.google.com/spreadsheets/d/1dzvaGlT_0xnT-PGO27Z_4prHgA8PHIpErmoWdlUrSoA/edit | HTB/THM Tracker | HTB/THM progress tracking spreadsheet for practice | #cybersecurity
+- https://brennan.io/2020/05/24/userspace-cooperative-multitasking | Brennan Userspace Multitasking | Article on userspace cooperative multitasking and concurrency | #systems
+- https://brennan.io/2020/05/08/meson | Brennan Meson | Article about the Meson build system | #systems,#build-tools
+- https://github.com/ianw/bottomupcs | Bottom-Up CS Resources | Resources for bottom-up computer systems learning | #systems
+- https://www.chrislaux.com | Chris Laux Blog | Technical engineering blog discussing systems and programming | #systems,#blog
+- https://marcelopardo.com | Marcelo Pardo Blog | Technical blog focusing on engineering and software systems | #systems,#blog
+- https://github.com/donnemartin/system-design-primer | System Design Primer | Learn how to design large-scale, scalable systems | #system-design
+- https://www.docker.com | Docker | Docker containerization platform and documentation | #devops,#cloud
+- https://kubernetes.io | Kubernetes | Kubernetes container orchestration platform | #devops,#cloud
+- https://www.terraform.io | Terraform | Infrastructure as Code tool for provisioning cloud resources | #devops,#iac
+- https://www.ansible.com | Ansible | Ansible automation platform for configuration management | #devops
+- https://www.jenkins.io | Jenkins | Open-source automation server for CI/CD pipelines | #devops,#ci-cd
+- https://github.com/devops-roadmap/devops-guide | DevOps Roadmap | DevOps learning roadmap and resources | #devops
+- https://github.com/bregman-arie/devops-exercises | DevOps Exercises | DevOps interview questions and practical exercises | #devops
+- https://roadmap.sh | Roadmap.sh | Interactive visual roadmap guides for tech careers | #web-dev
+- https://aws.amazon.com | AWS | Amazon Web Services cloud computing platform | #cloud
+- https://cloud.google.com | Google Cloud | Google Cloud Platform and services | #cloud
+- https://azure.microsoft.com | Microsoft Azure | Microsoft Azure cloud services platform | #cloud
+- https://www.postgresql.org | PostgreSQL | PostgreSQL open-source relational database | #databases
+- https://www.mongodb.com | MongoDB | MongoDB NoSQL document database | #databases
+- https://redis.io | Redis | Redis in-memory data structure store | #databases
+- https://socviz.co | Data Visualization SocViz | Practical guide to data visualization using R | #math,#data-viz
+- https://mml-book.github.io | Mathematics for Machine Learning | Mathematics for Machine Learning textbook | #math,#ai
+- https://www.stephenwolfram.com | Stephen Wolfram | Stephen Wolfram's website exploring computation, science, and AI | #ai,#essays
+- https://wessel.ai | Wessel.ai | Artificial intelligence experiments, tools, and research explorations | #ai
+- https://lawsofux.com | Laws of UX | Collection of psychological principles applied to UX and UI design | #design-ux
+- https://www.figma.com | Figma | Collaborative web-based UI and UX interface design tool | #design-ux
+- https://pencil.dev | Pencil Project | Open-source GUI prototyping and UI/UX design tool | #design-ux
+- https://excalidraw.com | Excalidraw | Collaborative virtual whiteboard sketching and diagramming tool | #design-ux
+- https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886 | Refactoring UI Tips | Article: Practical design tips for developers (Refactoring UI) | #design-ux
+- https://refactoring.guru | Refactoring Guru | Design patterns and refactoring explained with visual examples | #design-patterns
+- https://feynmanlectures.caltech.edu | Feynman Lectures | Complete Feynman Lectures on fundamental physics | #math-physics
+- https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf | Coding Theory Textbook | Coding theory open textbook (PDF) | #math
+- https://sebastian.itch.io/digital-logic-sim | Digital Logic Sim | Digital logic simulator for learning hardware design | #math,#hardware
+- https://www.youtube.com/@CrashCourse | Crash Course Computer Science | Technology and CS YouTube playlist | #math,#hardware,#education
+- https://www.teamten.com/lawrence/style | Lawrence Technical Writing Style | Opinionated guidelines and style tips for technical writing | #writing
+- https://jeffhuang.com/designed_to_last | Designed to Last | Essay on sustainable, durable, and long-lasting web design | #web-dev,#essays
+- https://netmeister.org/blog/cs-falsehoods.html | CS Falsehoods | Blog post on common falsehoods programmers believe about CS | #essays
+- https://blog.acolyer.org | The Morning Paper | Blog featuring summaries of important computer science research papers | #research
+- https://jeffhuang.com/best_paper_awards | CS Best Paper Awards | List of award-winning and notable computer science papers | #research
+- https://jeffhuang.com/computer-science-open-data | CS Open Data | Open datasets and resources for computer science research | #research,#opendata
+- https://github.com/papers-we-love/papers-we-love | Papers We Love Repo | Repository for academic computer science papers | #research
+- https://paperswelove.org | Papers We Love | Community platform for reading and discussing computer science papers | #research,#community
+- https://freecomputerbooks.com | Free Computer Books | Directory of free programming, mathematics, and CS books | #books
+- https://es.overleaf.com/project | Overleaf | Overleaf collaborative LaTeX editor for academic writing | #books,#latex
+- https://github.com/rstudio/rmarkdown | R Markdown | R Markdown dynamic document generation tool | #books,#r
+- https://github.com/rstudio/bookdown | Bookdown | Bookdown R Markdown extension for authoring books | #books,#r
+- https://learn-anything.xyz | Learn Anything | Visual maps and learning paths for multiple disciplines | #learning
+- https://codeforwin.org | Codeforwin | Programming tutorial website with practical examples | #tutorials
+- https://projectbook.code.brettchalupa.com/_introduction.html | The Project Book | Inspirational programming and software development project ideas | #tutorials
+- https://github.com/practical-tutorials/project-based-learning | Project-Based Learning | Curated list of project-based programming tutorials | #tutorials
+- https://github.com/jwasham/coding-interview-university | Coding Interview University | Structured study plan for software engineering interview prep | #interview-prep
+- https://github.com/erik-grinaker/readings | Erik Grinaker Readings | Curated reading list focusing on systems and engineering | #systems,#books
+- https://github.com/pahen/madge | Madge | Tool for generating visual dependency graphs of JavaScript/TypeScript modules | #build-tools,#javascript
+- https://dev.to | DEV Community | Social platform for developers sharing technical articles and insights | #community
+- https://news.ycombinator.com | Hacker News | Hacker News technology aggregator and discussion board | #community
+- https://news.ycombinator.com/item?id=20729252 | Hacker News CS Thread | Hacker News discussion on top computer science resources | #community
+- https://medium.com | Medium | Medium publishing platform for long-form technical content | #community
+- https://github.com/w3c | W3C GitHub | The W3C official web standards repository | #standards
+- https://startupnextdoor.com | Startup Next Door | Insightful content on startups, entrepreneurship, and tech growth | #startups,#blog
+- https://www.youtube.com/@SebastianLague | Sebastian Lague YouTube | Sebastian Lague YouTube channel (coding adventures, game dev, graphics) | #youtube
+- https://sebastian.itch.io | Sebastian Lague Itch.io | Sebastian Lague Itch.io profile with project downloads | #youtube,#gamedev
+- https://github.com/manjunath5496 | Manjunath Resources | Collection of computer science and programming resources | #cs-fundamentals
