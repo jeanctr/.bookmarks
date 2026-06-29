@@ -17,18 +17,18 @@ Minimal, keyboard-driven bookmark manager. Vanilla JS, no dependencies.
 
 ## Shortcuts
 
-| Key | Action |
-|-----|--------|
-| `j` / `k` | Navigate up / down |
-| `g` / `G` | Go to top / bottom |
-| `/` | Focus search |
-| `Esc` | Clear search / Close modal |
-| `f` | Toggle favorite |
-| `y` | Copy URL |
-| `Enter` | Open focused link |
-| `v` | Toggle grid/list view |
-| `t` | Toggle theme |
-| `?` | Show shortcuts |
+| Key       | Action                     |
+| --------- | -------------------------- |
+| `j` / `k` | Navigate up / down         |
+| `g` / `G` | Go to top / bottom         |
+| `/`       | Focus search               |
+| `Esc`     | Clear search / Close modal |
+| `f`       | Toggle favorite            |
+| `y`       | Copy URL                   |
+| `Enter`   | Open focused link          |
+| `v`       | Toggle grid/list view      |
+| `t`       | Toggle theme               |
+| `?`       | Show shortcuts             |
 
 ## Search Syntax
 

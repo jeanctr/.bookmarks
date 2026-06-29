@@ -29,7 +29,10 @@ const isValidUrl = (str) => {
 const highlightText = (text, terms) => {
   if (!terms.length) return text;
   const escaped = terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
-  return text.replace(new RegExp(`(${escaped.join("|")})`, "gi"), "<mark>$1</mark>");
+  return text.replace(
+    new RegExp(`(${escaped.join("|")})`, "gi"),
+    "<mark>$1</mark>",
+  );
 };
 
 // Delay function execution to save resources
@@ -97,7 +100,10 @@ const parseBookmarks = (text) => {
 
 // Parse single line: "- url | title | #tag1,#tag2"
 const parseLine = (line) => {
-  const parts = line.replace(/^-\s*/, "").split("|").map((p) => p.trim());
+  const parts = line
+    .replace(/^-\s*/, "")
+    .split("|")
+    .map((p) => p.trim());
   if (parts.length < 3) return null;
 
   const url = parts[0];
@@ -107,7 +113,10 @@ const parseLine = (line) => {
   if (!isValidUrl(url)) return null;
 
   const tags = tagsString
-    ? tagsString.split(",").map((t) => t.trim().replace(/^#/, "")).filter(Boolean)
+    ? tagsString
+        .split(",")
+        .map((t) => t.trim().replace(/^#/, ""))
+        .filter(Boolean)
     : [];
 
   return { url, title, tags };
@@ -117,23 +126,37 @@ const parseLine = (line) => {
 const parseQuery = (query) => {
   const include = [];
   const exclude = [];
-  query.toLowerCase().split(/\s+/).filter(Boolean).forEach((token) => {
-    token.startsWith("-") && token.length > 1
-      ? exclude.push(token.slice(1))
-      : include.push(token);
-  });
+  query
+    .toLowerCase()
+    .split(/\s+/)
+    .filter(Boolean)
+    .forEach((token) => {
+      token.startsWith("-") && token.length > 1
+        ? exclude.push(token.slice(1))
+        : include.push(token);
+    });
   return { include, exclude };
 };
 
 // Check if bookmark matches query
 const matchesQuery = (bookmark, parsed) => {
-  const text = [bookmark.title, bookmark.url, ...bookmark.tags].join(" ").toLowerCase();
-  return parsed.include.every((t) => text.includes(t)) &&
-         parsed.exclude.every((t) => !text.includes(t));
+  const text = [bookmark.title, bookmark.url, ...bookmark.tags]
+    .join(" ")
+    .toLowerCase();
+  return (
+    parsed.include.every((t) => text.includes(t)) &&
+    parsed.exclude.every((t) => !text.includes(t))
+  );
 };
 
 // Get visible bookmarks after applying all filters
-const getVisibleBookmarks = (bookmarks, query, activeTag, showOnlyFavorites, favorites) => {
+const getVisibleBookmarks = (
+  bookmarks,
+  query,
+  activeTag,
+  showOnlyFavorites,
+  favorites,
+) => {
   const parsed = parseQuery(query);
   return bookmarks.filter((bm) => {
     const matchQuery = matchesQuery(bm, parsed);
@@ -156,8 +179,21 @@ const getTagCounts = (bookmarks) => {
 // ============================================================
 
 // Render bookmark list
-const renderBookmarks = (dom, state, query, activeTag, showOnlyFavorites, favorites) => {
-  const visible = getVisibleBookmarks(state.bookmarks, query, activeTag, showOnlyFavorites, favorites);
+const renderBookmarks = (
+  dom,
+  state,
+  query,
+  activeTag,
+  showOnlyFavorites,
+  favorites,
+) => {
+  const visible = getVisibleBookmarks(
+    state.bookmarks,
+    query,
+    activeTag,
+    showOnlyFavorites,
+    favorites,
+  );
   const parsed = parseQuery(query);
 
   const html = visible
@@ -165,7 +201,14 @@ const renderBookmarks = (dom, state, query, activeTag, showOnlyFavorites, favori
     .join("");
 
   dom.container.innerHTML = html || '<p class="status-message">No matches.</p>';
-  updateResultsInfo(dom, state, visible.length, query, activeTag, showOnlyFavorites);
+  updateResultsInfo(
+    dom,
+    state,
+    visible.length,
+    query,
+    activeTag,
+    showOnlyFavorites,
+  );
 };
 
 // Render single bookmark card
@@ -198,7 +241,7 @@ const renderTags = (tags) => {
     .map(
       (tag) => `
       <span class="tag" role="button" tabindex="0" data-tag="${escapeHtml(tag)}">#${escapeHtml(tag)}</span>
-    `
+    `,
     )
     .join("");
   return `<div class="tags">${tagsHtml}</div>`;
@@ -217,7 +260,7 @@ const renderGlobalTags = (dom, state) => {
             data-tag="${escapeHtml(tag)}" aria-pressed="${state.activeTag === tag}">
         #${escapeHtml(tag)}<span class="tag-count">${tagCounts[tag]}</span>
       </span>
-    `
+    `,
     )
     .join("");
 };
@@ -229,7 +272,14 @@ const updateFavoritesUI = (dom, favCount) => {
 };
 
 // Show filtered/total count
-const updateResultsInfo = (dom, state, visibleCount, query, activeTag, showOnlyFavorites) => {
+const updateResultsInfo = (
+  dom,
+  state,
+  visibleCount,
+  query,
+  activeTag,
+  showOnlyFavorites,
+) => {
   const isFiltered = query || activeTag || showOnlyFavorites;
   dom.resultsInfo.textContent = isFiltered
     ? `${visibleCount} of ${state.bookmarks.length} matches`
@@ -239,7 +289,14 @@ const updateResultsInfo = (dom, state, visibleCount, query, activeTag, showOnlyF
 // Re-render all UI sections
 const renderAll = (dom, state, query, favorites) => {
   renderGlobalTags(dom, state);
-  renderBookmarks(dom, state, query, state.activeTag, state.showOnlyFavorites, favorites);
+  renderBookmarks(
+    dom,
+    state,
+    query,
+    state.activeTag,
+    state.showOnlyFavorites,
+    favorites,
+  );
 };
 
 // ============================================================
@@ -251,7 +308,14 @@ const toggleFavorite = (url, state, dom, favorites) => {
   favorites.has(url) ? favorites.delete(url) : favorites.add(url);
   storageSetJSON(KEYS.favorites, [...favorites]);
   updateFavoritesUI(dom, favorites.size);
-  renderBookmarks(dom, state, dom.searchInput.value.trim(), state.activeTag, state.showOnlyFavorites, favorites);
+  renderBookmarks(
+    dom,
+    state,
+    dom.searchInput.value.trim(),
+    state.activeTag,
+    state.showOnlyFavorites,
+    favorites,
+  );
 };
 
 // Copy URL to clipboard
@@ -298,7 +362,14 @@ const toggleFavoritesFilter = (state, dom, favorites) => {
     tag.classList.toggle("active", state.showOnlyFavorites);
     tag.setAttribute("aria-pressed", state.showOnlyFavorites);
   }
-  renderBookmarks(dom, state, dom.searchInput.value.trim(), state.activeTag, state.showOnlyFavorites, favorites);
+  renderBookmarks(
+    dom,
+    state,
+    dom.searchInput.value.trim(),
+    state.activeTag,
+    state.showOnlyFavorites,
+    favorites,
+  );
 };
 
 // Clear all filters
@@ -322,7 +393,10 @@ const focusItem = (index, dom, state) => {
   items.forEach((el) => el.classList.remove("focused"));
   state.focusedIndex = Math.max(0, Math.min(index, items.length - 1));
   items[state.focusedIndex].classList.add("focused");
-  items[state.focusedIndex].scrollIntoView({ block: "nearest", behavior: "smooth" });
+  items[state.focusedIndex].scrollIntoView({
+    block: "nearest",
+    behavior: "smooth",
+  });
 };
 
 // Get focused item URL
@@ -336,7 +410,10 @@ const getFocusedUrl = (dom, state) => {
 // Toggle help modal
 const toggleHelpModal = (dom) => {
   dom.helpModal.classList.toggle("active");
-  dom.helpModal.setAttribute("aria-hidden", !dom.helpModal.classList.contains("active"));
+  dom.helpModal.setAttribute(
+    "aria-hidden",
+    !dom.helpModal.classList.contains("active"),
+  );
 };
 
 // Close help modal
@@ -357,7 +434,7 @@ const attachEventListeners = (dom, state, favorites) => {
     debounce(() => {
       storageSet(KEYS.lastSearch, dom.searchInput.value);
       renderAll(dom, state, dom.searchInput.value.trim(), favorites);
-    }, 150)
+    }, 150),
   );
 
   // Event delegation for bookmark items
@@ -374,13 +451,18 @@ const attachEventListeners = (dom, state, favorites) => {
       e.preventDefault();
       e.stopPropagation();
       const url = btn.closest(".link-item").dataset.url;
-      btn.dataset.action === "fav" ? toggleFavorite(url, state, dom, favorites) : copyToClipboard(url, dom);
+      btn.dataset.action === "fav"
+        ? toggleFavorite(url, state, dom, favorites)
+        : copyToClipboard(url, dom);
     }
   });
 
   // Keyboard for bookmark tags
   dom.container.addEventListener("keydown", (e) => {
-    if ((e.key === "Enter" || e.key === " ") && e.target.closest(".tag[data-tag]")) {
+    if (
+      (e.key === "Enter" || e.key === " ") &&
+      e.target.closest(".tag[data-tag]")
+    ) {
       e.preventDefault();
       setActiveTag(e.target.closest(".tag").dataset.tag, state, dom, favorites);
     }
@@ -393,7 +475,10 @@ const attachEventListeners = (dom, state, favorites) => {
   });
 
   dom.globalTagsList.addEventListener("keydown", (e) => {
-    if ((e.key === "Enter" || e.key === " ") && e.target.closest(".tag[data-tag]")) {
+    if (
+      (e.key === "Enter" || e.key === " ") &&
+      e.target.closest(".tag[data-tag]")
+    ) {
       e.preventDefault();
       setActiveTag(e.target.closest(".tag").dataset.tag, state, dom, favorites);
     }
@@ -402,10 +487,14 @@ const attachEventListeners = (dom, state, favorites) => {
   // Favorites filter
   if (dom.favoritesFilter) {
     dom.favoritesFilter.addEventListener("click", (e) => {
-      if (e.target.closest(".tag[data-filter]")) toggleFavoritesFilter(state, dom, favorites);
+      if (e.target.closest(".tag[data-filter]"))
+        toggleFavoritesFilter(state, dom, favorites);
     });
     dom.favoritesFilter.addEventListener("keydown", (e) => {
-      if ((e.key === "Enter" || e.key === " ") && e.target.closest(".tag[data-filter]")) {
+      if (
+        (e.key === "Enter" || e.key === " ") &&
+        e.target.closest(".tag[data-filter]")
+      ) {
         e.preventDefault();
         toggleFavoritesFilter(state, dom, favorites);
       }
@@ -478,7 +567,10 @@ const attachEventListeners = (dom, state, favorites) => {
       moveToBottom: () => {
         const items = [...dom.container.querySelectorAll(".link-item")];
         focusItem(items.length - 1, dom, state);
-        window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+        window.scrollTo({
+          top: document.body.scrollHeight,
+          behavior: "smooth",
+        });
       },
       openFocusedLink: () => {
         const url = getFocusedUrl(dom, state);
@@ -562,7 +654,8 @@ const init = async () => {
     state.bookmarks = parseBookmarks(await res.text());
 
     if (!state.bookmarks.length) {
-      dom.container.innerHTML = '<p class="status-message error">No bookmarks found.</p>';
+      dom.container.innerHTML =
+        '<p class="status-message error">No bookmarks found.</p>';
       return;
     }
 
@@ -584,7 +677,8 @@ const init = async () => {
   } catch (error) {
     const errorContainer = $("#links-list");
     if (errorContainer) {
-      errorContainer.innerHTML = '<p class="status-message error">Error loading bookmarks.txt.</p>';
+      errorContainer.innerHTML =
+        '<p class="status-message error">Error loading bookmarks.txt.</p>';
     }
     console.error("Initialization error:", error);
   }
@@ -592,7 +686,9 @@ const init = async () => {
 
 // Get system theme preference
 const getDefaultTheme = () => {
-  return window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+  return window.matchMedia("(prefers-color-scheme: light)").matches
+    ? "light"
+    : "dark";
 };
 
 // Start app
