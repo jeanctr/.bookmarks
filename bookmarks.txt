@@ -146,4 +146,16 @@
 - https://dev.to | DEV Community | #community
 - https://news.ycombinator.com | Hacker News | #community
 - https://news.ycombinator.com/item?id=20729252 | Hacker News CS Thread | #community
-- https://github.com/w3c | W3C GitHub | #standards
+- https://github.com/w3c | W3C GitHub | #standards, #web
+- https://github.com/swc-project/swc | SWC GitHub | #web-dev, #compiler
+- https://teachyourselfcs.com/ | Teach Yourself Computer Science | #computer-science, #learning
+- https://meatfighter.com/tetromino-computer/index.html | Tetromino Computer | #computer-architecture, #logic
+- https://jalammar.github.io/illustrated-transformer/ | The Illustrated Transformer | #ai, #transformers
+- https://github.com/dair-ai/Transformers-Recipe | Transformers Recipe | #ai, #llm
+- https://vercel.com/design | Vercel Design | #design, #ui
+- https://bitsofco.de/what-exactly-is-the-dom/ | What Exactly Is the DOM? | #dom, #javascript
+- https://github.com/getify/You-Dont-Know-JS | You Don't Know JS | #javascript, #book
+- https://irchiver.com/ | IRChiver | #irc, #archives
+- https://systemfontstack.com/ | System Font Stack | #css, #typography
+- https://gomakethings.com/articles/the-web-is-not-dying/ | The Web Is Not Dying | #web, #opinion
+- https://gomakethings.com/ | Go Make Things | #web-dev, #javascript
