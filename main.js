@@ -87,28 +87,26 @@ const KEYS = {
 // ============================================================
 
 // Parse bookmarks.txt format
-const parseBookmarks = (text) => {
+export const parseBookmarks = (text) => {
   if (typeof text !== "string") return [];
   return text
     .split("\n")
     .map((l) => l.trim())
     .filter((l) => l && l !== "---")
-    .filter((l) => l.startsWith("-") && l.includes("|"))
+    .filter((l) => l.includes(" - "))
     .map(parseLine)
     .filter(Boolean);
 };
 
-// Parse single line: "- url | title | #tag1,#tag2"
+// Parse single line: "- url - title - #tag1,#tag2"
 const parseLine = (line) => {
-  const parts = line
-    .replace(/^-\s*/, "")
-    .split("|")
-    .map((p) => p.trim());
-  if (parts.length < 3) return null;
+  const parts = line.split(" - ").map((p) => p.trim());
+
+  if (parts.length < 2) return null;
 
   const url = parts[0];
   const title = parts[1];
-  const tagsString = parts[2];
+  const tagsString = parts[2] || "";
 
   if (!isValidUrl(url)) return null;
 
