@@ -86,8 +86,6 @@ const KEYS = {
 // PARSER - Parse bookmarks and queries
 // ============================================================
 
-import { isValidUrl } from "./utils.js";
-
 // Parse bookmarks.txt format
 export const parseBookmarks = (text) => {
   if (typeof text !== "string") return [];
