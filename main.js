@@ -86,21 +86,23 @@ const KEYS = {
 // PARSER - Parse bookmarks and queries
 // ============================================================
 
+import { isValidUrl } from "./utils.js";
+
 // Parse bookmarks.txt format
 export const parseBookmarks = (text) => {
   if (typeof text !== "string") return [];
   return text
     .split("\n")
     .map((l) => l.trim())
-    .filter((l) => l && l !== "---")
-    .filter((l) => l.includes(" - "))
+    .filter((l) => l && l !== "---" && l.startsWith("-"))
     .map(parseLine)
     .filter(Boolean);
 };
 
 // Parse single line: "- url - title - #tag1,#tag2"
 const parseLine = (line) => {
-  const parts = line.split(" - ").map((p) => p.trim());
+  const content = line.replace(/^-\s*/, "");
+  const parts = content.split(" - ").map((p) => p.trim());
 
   if (parts.length < 2) return null;
 
@@ -121,7 +123,7 @@ const parseLine = (line) => {
 };
 
 // Split query into include/exclude tokens
-const parseQuery = (query) => {
+export const parseQuery = (query) => {
   const include = [];
   const exclude = [];
   query
@@ -137,7 +139,7 @@ const parseQuery = (query) => {
 };
 
 // Check if bookmark matches query
-const matchesQuery = (bookmark, parsed) => {
+export const matchesQuery = (bookmark, parsed) => {
   const text = [bookmark.title, bookmark.url, ...bookmark.tags]
     .join(" ")
     .toLowerCase();
@@ -148,7 +150,7 @@ const matchesQuery = (bookmark, parsed) => {
 };
 
 // Get visible bookmarks after applying all filters
-const getVisibleBookmarks = (
+export const getVisibleBookmarks = (
   bookmarks,
   query,
   activeTag,
@@ -165,7 +167,7 @@ const getVisibleBookmarks = (
 };
 
 // Count bookmarks per tag
-const getTagCounts = (bookmarks) => {
+export const getTagCounts = (bookmarks) => {
   return bookmarks.reduce((acc, bm) => {
     bm.tags.forEach((tag) => (acc[tag] = (acc[tag] || 0) + 1));
     return acc;
